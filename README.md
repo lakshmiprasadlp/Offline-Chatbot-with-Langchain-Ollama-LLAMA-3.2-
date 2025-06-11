@@ -16,8 +16,8 @@ This project demonstrates how to build a fully **offline AI chatbot** using **La
 
 ---
 # Screan Short
-![Chatbot Output](assets/Screenshot 1.png)
-![Chatbot Output](assets/Screenshot 1.png)
+![Chatbot Output](assets/Screenshot1.png)
+![Chatbot Output](assets/Screenshot2.png)
 
 ---
 ## ✅ Advantages
