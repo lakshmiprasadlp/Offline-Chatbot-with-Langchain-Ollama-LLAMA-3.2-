@@ -1,6 +1,4 @@
-Here's a professional `README.md` content for your project **Offline Chatbot with LangChain, Ollama, and LLama 3.2**:
 
----
 
 # 🤖 Offline Chatbot with LangChain, Ollama, and LLama 3.2
 
@@ -19,8 +17,8 @@ This project demonstrates how to build a fully **offline AI chatbot** using **La
 ---
 # Screan Short
 ![Chatbot Output](Screenshot 2025-06-11 184452.png)
-
 ![2](Screenshot 2025-06-11 184510.png)
+
 ---
 ## ✅ Advantages
 
