@@ -7,7 +7,6 @@ from langchain_openai import ChatOpenAI
 
 st.title("🧠 Make Your Own Chat Application with Ollama and Langchain!!!")
 
-#st.write("GET MORE INFO @ KGP Talkie: https://www.youtube.com/kgptalkie")
 
 with st.form("llm-form"):
     text = st.text_area("Enter your question or statement:")
